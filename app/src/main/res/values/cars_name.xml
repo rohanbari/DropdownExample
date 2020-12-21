@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="supercars">
+        <item>Bugatti Chiron</item>
+        <item>Lamborghini Aventador</item>
+        <item>W Motors Lykan Hypersport</item>
+        <item>Pininfarina H2 Speed</item>
+        <item>Koenigsegg Regera</item>
+    </string-array>
+</resources>
